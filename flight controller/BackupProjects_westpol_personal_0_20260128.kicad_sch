@@ -1,0 +1,260 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "864a3d85-3646-4e2b-968a-9945ad82cbc6")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 5.08 49.53)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2d2695ab-edf3-4fe2-bacf-7e4fe609e6ad")
+		(property "Sheetname" "Sheet_6"
+			(at 5.08 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet_6.kicad_sch"
+			(at 5.08 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BackupProjects_westpol_personal_0_20260128"
+				(path "/864a3d85-3646-4e2b-968a-9945ad82cbc6"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 5.08)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "559c5800-8e9e-45bc-a646-132806988506")
+		(property "Sheetname" "Sheet_1"
+			(at 5.08 4.3684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet_1.kicad_sch"
+			(at 5.08 9.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BackupProjects_westpol_personal_0_20260128"
+				(path "/864a3d85-3646-4e2b-968a-9945ad82cbc6"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 40.64)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5db24341-3e9b-49d9-b3c4-8d81be43d72c")
+		(property "Sheetname" "Sheet_5"
+			(at 5.08 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet_5.kicad_sch"
+			(at 5.08 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BackupProjects_westpol_personal_0_20260128"
+				(path "/864a3d85-3646-4e2b-968a-9945ad82cbc6"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 22.86)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9be43589-55fd-4d71-891b-d7fc9efb4c69")
+		(property "Sheetname" "Sheet_3"
+			(at 5.08 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet_3.kicad_sch"
+			(at 5.08 27.2546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BackupProjects_westpol_personal_0_20260128"
+				(path "/864a3d85-3646-4e2b-968a-9945ad82cbc6"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 13.97)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "adafd85f-0780-4c9d-bf01-58dc80d0d23b")
+		(property "Sheetname" "Sheet_2"
+			(at 5.08 13.2584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet_2.kicad_sch"
+			(at 5.08 18.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BackupProjects_westpol_personal_0_20260128"
+				(path "/864a3d85-3646-4e2b-968a-9945ad82cbc6"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 31.75)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f1b3c48c-5973-4744-9202-0c7db3d2435d")
+		(property "Sheetname" "Sheet_4"
+			(at 5.08 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet_4.kicad_sch"
+			(at 5.08 36.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BackupProjects_westpol_personal_0_20260128"
+				(path "/864a3d85-3646-4e2b-968a-9945ad82cbc6"
+					(page "4")
+				)
+			)
+		)
+	)
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BackupProjects_westpol_personal_0_20260128")(type "KiCad")(uri "$(KIPRJMOD)/BackupProjects_westpol_personal_0_20260128.pretty")(options "")(descr ""))
+)
